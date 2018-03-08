@@ -1,0 +1,24 @@
+{
+  "name": "azurefn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfberry/azureFn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfberry/azureFn/issues"
+  },
+  "homepage": "https://github.com/dfberry/azureFn#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.2.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
